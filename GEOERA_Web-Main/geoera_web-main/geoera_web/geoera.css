@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+nav{
+    width: 100%;
+    background-color:  cornflowerblue;
+    display: inline-block;
+}
+img{
+    margin: 1rem;
+
+}
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+
+.parent .menu-left ul li{
+    display: inline-block;
+    margin-right: 1rem;
+    transition: 0.5s;
+    padding: 1rem;
+}
+.parent .menu-left ul li:hover{
+    background-color: darkkhaki;
+    border-radius: 10px;
+
+}
+.parent .menu-left ul a{
+    color: midnightblue;
+    padding: 1rem 1rem;
+}
+
+.parent .menu-right ul li{
+    display: inline-block;
+    margin-right: 1rem;
+}
+.parent .menu-right ul a{
+    color: midnightblue;
+}
+.parent .menu-right{
+    margin: 1rem;
+}
+.mybtn{
+    padding: 0 0.5rem;
+}
+.mybtn:first-child{
+    border-right: 2px solid black;
+}
+/* .mybtn:last-child{
+    padding-left: 0.5rem;
+} */
+
+/* BANNER */
+
+.banner img{
+    width: 100%;
+    height: 90vh;
+}
+
+footer{
+    width: 100%;
+    background-color: cornflowerblue;
+    height: 30vh;
+    
+}
+.footer-left{
+    border-right: 2px solid midnightblue;
+    padding: 3rem;
+    float: left;
+    width: 50%;
+    
+
+}
+.footer-right{
+    padding: 4rem;
+    float: right;
+    width: 50%;
+}
+.footer-left ul a{
+    color: midnightblue;
+    text-decoration: none;
+    text-align: center;
+    list-style: none;
+    
+}
+
+.left-ul li{
+    padding: 0.25rem;
+    /* text-align: center; */
+}
+.right-ul li{
+    text-decoration: none;
+    display: inline-block;
+    color: midnightblue;
+    font-size: 2rem;
+    padding: 0rem 1rem;
+}
+.deneme1{
+    margin: 15px;
+    background-color:rgb(243, 167, 167) ;
+    /* height:125px; */
+    height: 45vh;
+    border-radius: 10px;
+}
+.deneme2{
+    margin: 15px;
+    background-color:lightcoral;
+    height:28vh;
+    border-radius: 10px;
+}
+.deneme3{
+    margin: 15px;
+    background-color:rgb(243, 167, 167);
+    height:28vh;
+    width: 110vh;
+    border-radius: 10px;
+    text-align: center;
+}
+.deneme4{
+    margin: 15px;
+    text-align: center;
+}
+.index-header{
+    width: 100%;
+    /* vh tüm sayfa için*/
+    /* border: 10px solid rgb(57, 5, 105); */
+    /* background: url("baraj_resmi.jpg"); */
+    /*linear-gradient: iki farklı renkin oluşumundan karışımında olan
+    rgba (r,g,b,burası opaklık transpanlığı ayarlıyor)  html color codes*/
+    background-position: center;
+    background-size: cover;
+}
+/* "opacity": (
+  property: opacity,
+  values: (
+    0: 0,
+    25: .25,
+    50: .5,
+    75: .75,
+    100: 1,
+  )
+), */
+
+.deneme{
+    margin-top: 7rem;
+    
+
+
+}
+.index-header-body{
+    background-color:rgb(212, 208, 148);
+}
+.uzunluk{
+    height: 70vh;
+}
