@@ -80,9 +80,9 @@ We have obtained the deformation map of the 4-year change. We examined this map 
 
 The aim of the study is to demonstrate the feasibility and usability of the datasets and technique for high temporal scale and high spatial resolution landslide assessment and monitoring activities which are crucial for the maintenance of dams.
 
-![image](https://github.com/hbarisdmr7/Landslide-Deformation/assets/38729621/23e216b0-dbe3-41a3-bb4d-28fa1fa1871b)
-
 ![image](https://github.com/hbarisdmr7/Landslide-Deformation/assets/38729621/6f35dcaa-6ea7-4307-b025-a8b3fa43cf6d)
+
+![image](https://github.com/hbarisdmr7/Landslide-Deformation/assets/38729621/23e216b0-dbe3-41a3-bb4d-28fa1fa1871b)
 
 ![image](https://github.com/hbarisdmr7/Landslide-Deformation/assets/38729621/292f2c08-6d47-42a5-80d0-05a40755eea6)
 
